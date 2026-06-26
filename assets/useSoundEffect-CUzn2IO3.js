@@ -1,0 +1,1 @@
+import{z as n,r as u}from"./index-DBZAxqDz.js";function f(t="/audio/sfx/click.mp3"){const{masterVolume:c}=n(),e=u.useRef(null),r=u.useRef(!1);return u.useCallback(()=>{if(!r.current)try{e.current||(e.current=new Audio(t)),e.current.volume=.7*c,e.current.currentTime=0,e.current.play().catch(()=>{}),r.current=!0,setTimeout(()=>{r.current=!1},100)}catch{}},[t,c])}export{f as u};
