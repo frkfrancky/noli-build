@@ -1,5 +1,5 @@
 const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/three-BPKjVr3x.js","assets/react-vendor-BNgX1jll.js","assets/motion-BJO9uHZw.js"])))=>i.map(i=>d[i]);
-import{_ as ue}from"./three-BPKjVr3x.js";import{j as e,m as f,A as X}from"./motion-BJO9uHZw.js";import{r as u,a as he,u as xe}from"./react-vendor-BNgX1jll.js";import{u as ie,a as fe}from"./index-UqVzPkeO.js";import{u as ge}from"./useSoundEffect-Bx3gUz-V.js";import{c as me,C as K,S as V,Z as Q,a as be,H as ye,G as ve,b as we,d as je,T as Ce,F as ke,e as Se}from"./PointsData-CUNnqP3O.js";import{H as Me,N as Ie,V as Ee}from"./Navigation-Dy8RHG2r.js";/**
+import{_ as ue}from"./three-BPKjVr3x.js";import{j as e,m as f,A as X}from"./motion-BJO9uHZw.js";import{r as u,a as he,u as xe}from"./react-vendor-BNgX1jll.js";import{u as ie,a as fe}from"./index-B-5Qx1el.js";import{u as ge}from"./useSoundEffect-B05-SJuO.js";import{c as me,C as K,S as V,Z as Q,a as be,H as ye,G as ve,b as we,d as je,T as Ce,F as ke,e as Se}from"./PointsData-CUNnqP3O.js";import{H as Me,N as Ie,V as Ee}from"./Navigation-C-ABL8O8.js";/**
  * @license lucide-react v1.9.0 - ISC
  *
  * This source code is licensed under the ISC license.
